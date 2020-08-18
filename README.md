@@ -1,5 +1,6 @@
 ## Treehouse
 
-Thid repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Checkout my Treehouse profile 
+Also checkout my Treehouse profile
+
